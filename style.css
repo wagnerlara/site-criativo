@@ -1,0 +1,9 @@
+body{
+    color: cadetblue;
+    background-color: rgb(39, 97, 99);
+}
+
+header{
+    border-bottom: solid 2px black;
+    padding: 20px;
+}
